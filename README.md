@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: forgetting to provide all required arguments when calling a function.  The `bug.swift` file contains code that will fail to compile due to a missing argument in a function call. The `bugSolution.swift` file shows the corrected code.
